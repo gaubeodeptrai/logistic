@@ -1,0 +1,16 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 27 Mar 2017 08:36:45 at http://cargo.bold-themes.com/transport-company/home/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://cargo.bold-themes.com/transport-company/home/ -O1 "E:\templates\Logistic" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:39:23	Warning: 	Retry after error -4 (No data (connection closed)) at link cargo.bold-themes.com/transport-company/wp-content/uploads/sites/2/2015/09/Three-orange-Scania-trucks-640x480.jpg (from cargo.bold-themes.com/transport-company/home/)
+08:39:24	Warning: 	Retry after error -4 (No data (connection closed)) at link cargo.bold-themes.com/transport-company/wp-content/themes/cargo/fonts/cargo.eot? (from cargo.bold-themes.com/transport-company/wp-content/themes/cargo/style.cargo.min.css?ver=4.7.3)
+08:39:24	Warning: 	Retry after error -4 (No data (connection closed)) at link cargo.bold-themes.com/transport-company/wp-content/themes/cargo/fonts/cargo.svg?-1lwiue?-1lwiue (from cargo.bold-themes.com/transport-company/wp-content/themes/cargo/style.cargo.min.css?ver=4.7.3)
+08:39:28	Error: 	"Not Found" (404) at link cargo.bold-themes.com/transport-company/home/Version/ (from cargo.bold-themes.com/transport-company/wp-content/themes/cargo/js/viewport-units-buggyfill.js?ver=4.7.3)
+08:39:28	Error: 	"Not Found" (404) at link cargo.bold-themes.com/transport-company/home/GET (from cargo.bold-themes.com/transport-company/wp-content/themes/cargo/js/viewport-units-buggyfill.js?ver=4.7.3)
+
+HTTrack Website Copier/3.48-22 mirror complete in 3 minutes 8 seconds : 86 links scanned, 80 files written (5520719 bytes overall) [4936084 bytes received at 26255 bytes/sec], 989945 bytes transferred using HTTP compression in 36 files, ratio 24%, 4.5 requests per connection
+(2 errors, 3 warnings, 0 messages)

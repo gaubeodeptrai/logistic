@@ -1,0 +1,24 @@
+.fullScreenHeight {
+    content: 'viewport-units-buggyfill; height: 100vh;';
+}
+
+.smallSliderHeight .slidedItem .btSliderPort {
+    content: 'viewport-units-buggyfill; height: 40vh;';
+}
+
+.mediumSliderHeight .slidedItem .btSliderPort {
+    content: 'viewport-units-buggyfill; height: 70vh;';
+}
+
+.largeSliderHeight .slidedItem .btSliderPort {
+    content: 'viewport-units-buggyfill; height: 100vh;';
+}
+
+.variableImg {
+    content: 'viewport-units-buggyfill; height: 100vh;';
+    overflow: hidden;
+}
+
+.btPageWrap {
+	/*content: 'viewport-units-buggyfill; min-height: 101vh;';*/
+}
